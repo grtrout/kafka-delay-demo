@@ -231,18 +231,3 @@ Check Flink SQL processing in Confluent Cloud:
 - **Batch Processing**: Collect messages and process them in scheduled batches
 - **Workflow Orchestration**: Coordinate multi-step processes with timing
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test with `./scripts/deploy.sh`
-5. Submit a pull request
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
-**Built with ❤️ using Confluent Cloud, Terraform, and Python** 
