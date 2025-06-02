@@ -1,5 +1,7 @@
 # Kafka Delay Demo with Automated Flink Processing
 
+![Flink Delivery Squirrel](docs/images/flink_delivery_squirrel.jpg)
+
 A demonstration of delayed message processing using Confluent Cloud Kafka and fully automated Flink SQL. Messages are sent with scheduled processing times and automatically handled when their time arrives - no manual intervention required.
 
 ## 🚀 Features
